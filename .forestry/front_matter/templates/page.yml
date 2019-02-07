@@ -16,3 +16,4 @@ fields:
   - hero-section
 pages:
 - content/_index.md
+- content/dette-er-en-page.md
