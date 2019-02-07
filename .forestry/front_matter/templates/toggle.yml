@@ -7,3 +7,4 @@ fields:
 - type: boolean
   name: off_on
   label: Off on
+  default: true
