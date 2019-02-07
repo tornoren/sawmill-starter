@@ -1,4 +1,8 @@
 ---
 title: Dette er default
 date: i dag
+menu:
+  main:
+    name: ''
+    weight: 2
 > Kult-. 

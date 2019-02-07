@@ -7,6 +7,6 @@ name = "DJ Walker"
 [[menu.main]]
 name = "View on Github"
 url = "https://github.com/dwalkr/sawmill"
-weight = 10
+weight = 1
 [params]
 logo = "/logo.svg"
