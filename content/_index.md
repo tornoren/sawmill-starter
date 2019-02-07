@@ -44,5 +44,7 @@ button_text = "View on Github"
 button_url = "https://github.com/dwalkr/sawmill"
 heading = "Let's Get Started"
 template = "call-to-action"
+[[blocks]]
+template = "call-to-action"
 
 +++
